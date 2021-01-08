@@ -1,0 +1,23 @@
+.container-fluid{
+    background-color: black;
+
+}
+p{
+    text-emphasis-color: white;
+    font-size: 25px;
+}
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.centered {
+    position: absolute;
+    font-size: 75px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+#banner{
+    margin: auto;
+}
